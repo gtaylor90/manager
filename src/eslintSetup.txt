@@ -1,0 +1,11 @@
+Atom
+1. in project director
+  a> nmp install --save-dev eslint-config-rallycoding
+2. tell eslint we want to use the rules
+  Create a file called .eslintrc:
+
+  {
+  "extends": "rallycoding"
+  }
+
+3. close then reopen the files
