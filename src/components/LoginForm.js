@@ -19,9 +19,9 @@ class LoginForm extends Component {
           />
         </CardSection>
         <CardSection>
-          <Button>
-            "Login"
-          </Button>
+          <Button
+            label="login"
+          />
         </CardSection>
       </Card>
     );
